@@ -44,7 +44,7 @@ O layout do aplicativo foi desenvolvido com foco em dispositivos móveis, portan
 
 ## Contribuidores
 
-- Alisson Tassi - GitHub: [Alisson Seraphim](https://github.com/alissonseraphim)
+- Alisson Tassi - GitHub: [AlissonSeraphim](https://github.com/AlissonSeraphim)
 - Kênia Peçanha - GitHub: [keniapecanha](https://github.com/keniapecanha)
 - Lívio Lopes - GitHub: [livio-lopes](https://github.com/livio-lopes)
 - Jefferson Santos - GitHub: [ojeff-dev](https://github.com/ojeff-dev)
@@ -97,7 +97,7 @@ The application layout is designed primarily for mobile devices, with all protot
 
 ## Contributors
 
-- Alisson Tassi - GitHub: [Alisson Seraphim](https://github.com/alissonseraphim)
+- Alisson Tassi - GitHub: [AlissonSeraphim](https://github.com/AlissonSeraphim)
 - Kênia Peçanha - GitHub: [keniapecanha](https://github.com/keniapecanha)
 - Lívio Lopes - GitHub: [livio-lopes](https://github.com/livio-lopes)
 - Jefferson Santos - GitHub: [ojeff-dev](https://github.com/ojeff-dev)
